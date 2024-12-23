@@ -10,6 +10,12 @@ Welcome to my GitHub profile! Here's a little about me:
  
 ---
 
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuharam&layout=compact&theme=radical)
+
+---
+
 ## 🚀 Skills and Technologies
 - **Languages**: JavaScript, Java
 - **Frameworks**: Vue.js, Spring Boot
@@ -27,21 +33,17 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌟 Featured Projects
 <!--
-- [Project Name 1](https://github.com/your-username/project-name-1): Short description of what it does.
-- [Project Name 2](https://github.com/your-username/project-name-2): Another cool project description.
--->
+## Projects
 
-<!--
-**Ryuharam/Ryuharam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some of my notable projects:
 
-Here are some ideas to get you started:
+- [Project 1](link-to-project-1): Brief description of Project 1.
+- [Project 2](link-to-project-2): Brief description of Project 2.
+- [Project 3](link-to-project-3): Brief description of Project 3.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Connect with Me
+
+- [LinkedIn](your-linkedin-profile)
+- [Twitter](your-twitter-profile)
+- [Personal Website](your-personal-website)
 -->
