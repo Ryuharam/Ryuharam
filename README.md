@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! Here's a little about me:
 
-- 🔭 I'm currently working on: [Booklog](https://github.com/Ryuharam/SSAFY_project_MJHR)
-- 🌱 I'm learning: Vue.js, Spring Boot, REST API
+- 🔭 I'm currently working on: 
+- 🌱 I'm learning: React, Vue.js, Spring Boot, REST API
 - 💬 Ask me about: Web development, Vue, and Spring Boot
 - 📫 How to reach me: [dlfnadl97@naver.com](mailto:dlfnadl97@naver.com)
   <!--🌐 Visit my portfolio: [your-portfolio.com](https://your-portfolio.com)-->
