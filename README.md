@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🔭 I'm currently working on: 
 - 🌱 I'm learning: React, Vue.js, Spring Boot, REST API
 - 💬 Ask me about: Web development, Vue, and Spring Boot
-- 📫 How to reach me: [dlfnadl97@naver.com](mailto:dlfnadl97@naver.com)
+- 📫 How to reach me: [haram891@gmail.com](mailto:haram891@gmail.com)
   <!--🌐 Visit my portfolio: [your-portfolio.com](https://your-portfolio.com)-->
  
 ---
