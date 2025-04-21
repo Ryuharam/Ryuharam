@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! Here's a little about me:
 
-- 🔭 I'm currently working on: 
-- 🌱 I'm learning: React, Vue.js, Spring Boot, REST API
-- 💬 Ask me about: Web development, Vue, and Spring Boot
 - 📫 How to reach me: [haram891@gmail.com](mailto:haram891@gmail.com)
   <!--🌐 Visit my portfolio: [your-portfolio.com](https://your-portfolio.com)-->
  
@@ -18,8 +15,9 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🚀 Skills and Technologies
 - **Languages**: JavaScript, Java
-- **Frameworks**: Vue.js, Spring Boot
-- **Tools**: Git, MySQL
+- **Frameworks**: Spring Boot, React, Vue
+- **Database**: MySQL, MariaDB
+- **Tools**: Git, Jira
 
 ---
 
@@ -28,7 +26,6 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ---
 
-[![코드트리|실력진단-dlfnadl97](https://banner.codetree.ai/v1/banner/dlfnadl97)](https://www.codetree.ai/profiles/dlfnadl97)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlfnadl97)](https://solved.ac/dlfnadl97/)
 
 ## 🌟 Featured Projects
