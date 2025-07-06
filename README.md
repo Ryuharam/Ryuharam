@@ -4,6 +4,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 - 🌱 Backend Developer 
 - 🛠 Java, Spring Boot, Kotlin, React를 기반으로 한 풀스택 개발 경험 보유
+- [portfoilo](https://www.notion.so/20106f05423380d0aeaad54dfd94602c)
 - 📫 How to reach me: [haram891@gmail.com](mailto:haram891@gmail.com)
 
 ---
