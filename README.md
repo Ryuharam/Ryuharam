@@ -43,7 +43,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ---
 
-### 🔹 [Lettering – NFC 기반 감성 편지 서비스](https://github.com/Ryuharam/Lettering)
+### 🔹 [Lettering – NFC 기반 감성 편지 서비스](https://github.com/Ryuharam/lettering-project)
 - **기간**: 2025.02.24 ~ 2025.04.11 (7주)  
 - **기술 스택**: Spring Boot, React.js, Recoil, Styled-components, FastAPI, OpenAI API, html2canvas  
 - **개요**: NFC 키링을 통해 1회용 감성 메시지를 안전하게 전달하는 서비스로, AI 글쓰기 보조, 엽서 다운로드, 결제 후 초기 설정 기능 등을 제공합니다.  
@@ -55,7 +55,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ---
 
-### 🔹 [Leafree – AI 기반 IoT 스마트팜 서비스](https://github.com/Ryuharam/Leafree)
+### 🔹 [Leafree – AI 기반 IoT 스마트팜 서비스](https://github.com/Ryuharam/leafree-project)
 - **기간**: 2025.04.14 ~ 2025.05.22 (5주)  
 - **기술 스택**: Spring Boot, MariaDB, Redis, JWT, FCM, Kotlin, Jetpack Compose, Mosquitto MQTT, Docker, Jenkins, Nginx, AWS EC2  
 - **개요**: 작물명을 말하면 AI가 해당 작물에 맞는 생육 환경을 자동 설정해주는 IoT 기반 스마트팜 서비스입니다. 앱을 통해 환경 모니터링과 제어가 가능합니다.  
