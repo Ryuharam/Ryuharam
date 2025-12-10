@@ -20,10 +20,6 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuharam&show_icons=true&theme=radical)
-
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlfnadl97)](https://solved.ac/dlfnadl97/)
