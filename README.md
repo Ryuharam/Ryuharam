@@ -30,7 +30,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### 🔹 [SolView – AI 기반 모의면접 서비스](https://github.com/Ryuharam/SolView)
 - **기간**: 2025.01.06 ~ 2025.02.21 (7주)  
-- **기술 스택**: Spring Boot, JPA, MariaDB, Redis, OAuth2, JWT, React.js, WebRTC, Docker, Jenkins, AWS, Terraform  
+- **기술 스택**: Spring Boot, JPA, MariaDB, Redis, OAuth2, JWT, WebRTC, Docker, Jenkins, AWS
 - **개요**: 자기소개서와 직무 정보를 기반으로 AI가 면접 질문을 생성하고, WebRTC를 통해 AI 면접관과 실시간 화상 면접을 진행하는 서비스입니다.  
 - **기여**:  
   - OAuth2 + JWT 기반 인증/인가 서버 구조 설계  
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### 🔹 [Lettering – NFC 기반 감성 편지 서비스](https://github.com/Ryuharam/lettering-project)
 - **기간**: 2025.02.24 ~ 2025.04.11 (7주)  
-- **기술 스택**: Spring Boot, React.js, Recoil, Styled-components, FastAPI, OpenAI API, html2canvas  
+- **기술 스택**: Spring Boot, React.js, Recoil, Styled-components, html2canvas  
 - **개요**: NFC 키링을 통해 1회용 감성 메시지를 안전하게 전달하는 서비스로, AI 글쓰기 보조, 엽서 다운로드, 결제 후 초기 설정 기능 등을 제공합니다.  
 - **기여**:  
   - 로그인/회원가입/마이페이지 구현  
