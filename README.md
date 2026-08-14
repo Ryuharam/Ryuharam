@@ -2,23 +2,21 @@
 
 Welcome to my GitHub profile! Here's a little about me:
 
-- 🌱 Backend Developer 
-- 🛠 Java, Spring Boot, React를 기반으로 한 풀스택 개발 경험 보유
+- 🌱 AI / Backend Developer 
+- 🛠 Java, Spring Boot, Python, FastAPI 활용 프로젝트 경험 보유
 - 📰 Notion [portfoilo](https://important-fisher-28d.notion.site/20106f05423380d0aeaad54dfd94602c?pvs=74)
 - 📫 How to reach me: [haram891@gmail.com](mailto:haram891@gmail.com)
 
 ---
 
-## 🚀 Skills and Technologies
+## 🚀 Core Skills and Technologies
 
-- **Languages**: Java, Kotlin, JavaScript
-- **Backend**: Spring Boot, JPA, Redis, MariaDB, JWT
-- **Frontend/App**: React.js, Vue.js, Jetpack Compose
-- **Infra/DevOps**: AWS EC2, Docker, Jenkins, Nginx
-- **IoT/Protocol**: Mosquitto MQTT, REST API, FCM
-- **Tools**: Git, Jira, Postman, Android Studio, IntelliJ
-
----
+- **Languages**: Java, Python
+- **Backend**: Spring Boot, JPA, Redis, MariaDB, JWT, FastAPI
+- **LLM**: Langchain, Langgraph, vLLM, 
+- **Infra/DevOps**: AWS EC2, Docker, Jenkins, Github actions,  Nginx
+- **IoT/Protocol**: MQTT, REST API, FCM
+- **Tools**: Git, Jira
 
 ---
 
