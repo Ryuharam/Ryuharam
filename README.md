@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🌟 Featured Projects
 
 ### 🔹 [PRism - Github apps 를 활용한 AI pull request 리뷰 서비스](https://github.com/Ryuharam/prism-be)
-- **기간**: 2026.07.15 ~ (ing)
+- **기간**: 2026.07.15 ~ 2026.08.09
 - **기술 스택**: Python, FastAPI, Pydantic, LangChain, LangGraph, AWS(EC2), Docker, Github Actions, Nginx, Cloudflare
 - **개요**: GitHub App과 Webhook 이벤트를 활용해 개발자의 코드 리뷰과정을 LLM으로 자동화하고, 개선을 돕는 AI 코드 리뷰 서비스
 
